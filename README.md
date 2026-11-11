@@ -1,22 +1,74 @@
 <div align="center">
 
-# 🎬 NOW STREAMING: Full Stack & Systems Engineering
+<!-- DYNAMIC CINEMATIC BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=220&section=header&text=🔴%20NOW%20STREAMING&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Architect%20•%20Systems%20%26%20IoT%20Engineer&descSize=18&descAlignY=62&descColor=00f2fe" width="100%" alt="Stream Header" />
 
-[![Status: Active](https://img.shields.io/badge/Stream_Status-LIVE-red?style=for-the-badge&logo=youtube&logoColor=white)](#)
-[![Experience](https://img.shields.io/badge/Runtime-5%2B_Years-blue?style=for-the-badge)](#)
-[![Contributions](https://img.shields.io/badge/Commits-2000%2B-green?style=for-the-badge)](#)
+<!-- LIVE STATUS CONTROLS -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=false&width=500&height=30&lines=Building+high-concurrency+distributed+systems;Architecting+modern+reactive+interfaces;Prototyping+embedded+IoT+firmware" alt="Typing SVG" />
+</p>
 
-<!-- Video Player Interface Mockup -->
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/BROADCAST-4K_ULTRA_HD-00f2fe?style=for-the-badge&logo=youtube&logoColor=black" alt="Resolution" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/SERVER_STATUS-ONLINE-00c853?style=for-the-badge&logo=statuspal&logoColor=white" alt="Status" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/COMMITS-HIGH_BITRATE-ff007f?style=for-the-badge&logo=git&logoColor=white" alt="Bitrate" /></a>
+</p>
+
+<!-- CUSTOM STREAM SCRUBBER UI -->
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    <td align="center" style="background-color: #0d1117; border-radius: 8px; padding: 16px;">
-      <a href="https://github.com/YOUR_USERNAME">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=0:090d16,100:1a233a&height=180&section=header&text=Welcome%20to%20the%20Channel&fontSize=32&fontColor=ffffff&desc=Building%20scalable%20web%20apps,%20systems,%20and%20IoT%20solutions&descSize=16&descAlignY=65" width="100%" alt="Channel Banner"/>
-      </a>
+    <td align="center" style="background: linear-gradient(145deg, #0d1117, #161b22); border-radius: 12px; border: 1px solid #30363d; padding: 18px;">
+      <p style="margin: 0; font-family: monospace; color: #8b949e;">
+        <code>02:45</code> 
+        <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="60%" height="4px" style="vertical-align: middle; margin: 0 10px;" />
+        <code>04:20</code>
+      </p>
+      <p style="margin-top: 10px;">
+        <kbd>⏮ PREV</kbd> &nbsp; 
+        <kbd><b>▶ PLAYING</b></kbd> &nbsp; 
+        <kbd>⏸ PAUSE</kbd> &nbsp; 
+        <kbd>⏭ NEXT</kbd> &nbsp; 
+        <kbd>🔊 100%</kbd> &nbsp; 
+        <kbd>⚙️ 1080p60</kbd>
+      </p>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+### 🎛️ Studio Deck & Production Arsenal
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,ts,react,nextjs,postgres,docker,nginx,cloudflare,linux,git,postman&perline=6" />
+  </a>
+</p>
+
+---
+
+### 🎬 Featured Playlists (Flagship Repositories)
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📦 Enterprise POS Core</h3>
       <p align="center">
-        <code>▶ 01:24 / 04:50</code> &nbsp; 
-        <code>[ ◀◀ ]</code> &nbsp; <code>[ ▶ PLAY ]</code> &nbsp; <code>[ ⏸ PAUSE ]</code> &nbsp; <code>[ ▶▶ ]</code> &nbsp;
-        <code>[ 🔊 100% ]</code> &nbsp; <code>[ ⛶ HD ]</code>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_1&theme=tokyonight&border_radius=10&bg_color=0d1117&border_color=00f2fe" width="100%"/>
+      </p>
+      <p align="center">
+        <code>Spring Boot 3</code> • <code>PostgreSQL</code> • <code>Docker</code>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">⚡ IoT Node Firmware</h3>
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_2&theme=tokyonight&border_radius=10&bg_color=0d1117&border_color=ff007f" width="100%"/>
+      </p>
+      <p align="center">
+        <code>ESP32</code> • <code>FreeRTOS</code> • <code>MQTT</code>
       </p>
     </td>
   </tr>
@@ -24,49 +76,27 @@
 
 ---
 
-### 📺 Channel Overview
+### 📈 Stream Telemetry & Real-Time Metrics
 
-Software Engineer & Educator focusing on full-stack architecture, backend systems, and embedded prototyping.
+<div align="center">
 
-| 📡 Broadcast Details | Information |
-| :--- | :--- |
-| **Current Focus** | Building production-grade microservices & distributed web systems |
-| **Tech Stack** | Java (Spring Boot), TypeScript, React, Docker, PostgreSQL |
-| **Hardware / IoT** | ESP32, Embedded C++, Sensor Networks |
-| **Collaboration** | Open-source initiatives, system design, and technical workshops |
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=00f2fe&icon_color=ff007f" width="49%" alt="GitHub Metrics" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=false&border_color=30363d&background=0D1117&ring=00F2FE&fire=FF007F&currStreakLabel=00F2FE" width="49%" alt="Streak Metrics" />
+
+</div>
 
 ---
 
-### 🧰 Tech Stack & Production Tools
+### 📡 Channel Connect & Subscriptions
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,react,postgres,docker,git,linux,bash,nginx,cloudflare,postman" />
-</p>
+<div align="center">
 
----
+[![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+[![Follow on X](https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/YOUR_USERNAME)
+[![Send Mail](https://img.shields.io/badge/Direct_Line-Email_Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@domain.com)
 
-### 🎞️ Featured Uploads (Repositories)
+<br/>
 
-| Thumbnail / Project | Category | Tech Stack | Link |
-| :--- | :--- | :--- | :--- |
-| **Enterprise POS Architecture** | Full-Stack Application | Spring Boot 3, React, PostgreSQL | [View Repository ↗](#) |
-| **IoT Sensor Node Firmware** | Embedded Systems | ESP32, FreeRTOS, MQTT | [View Repository ↗](#) |
-| **Cloud Infrastructure Templates** | DevOps & Cloud | Docker, Cloudflare, Nginx | [View Repository ↗](#) |
-
----
-
-### 📊 Stream Analytics & GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak Stats" width="48%" />
-</p>
-
----
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-Subscribe-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="mailto:YOUR_EMAIL@domain.com"><img src="https://img.shields.io/badge/Contact-Get_in_Touch-brightgreen?style=flat-square&logo=gmail" alt="Email"/></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,1&height=120&section=footer" width="100%" />
 
 </div>
